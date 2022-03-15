@@ -1,0 +1,107 @@
+body{
+    text-align:center;
+     background: linear-gradient(#18FFFF 25%, #FFFF00  ,#76FF03  );
+    }
+    h1{
+    font-family: 'Dancing Script', cursive;
+     font-weight:bold;
+    }
+    p{
+    font-family: 'Dancing Script', cursive;
+    font-weight:bold;
+    }
+    .menu{
+        list-style: none;
+        position: fixed;
+       top:0px;
+       margin-top: 0px;
+       width:100%;
+       z-index:10;
+       cursor:pointer;
+      padding-left: 20px;
+      font-weight: bold;
+      text-decoration: underline;
+      color: black;
+      font-weight: bold;
+    }
+    #stbl{
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    right: 100px;
+    top: 150px;
+    }
+    #s{
+        position: absolute;
+        right: 100px;
+        top: 130px;
+        color: black;
+        font-weight: bold;
+    }
+    #t{
+        position: absolute;
+        right: 100px;
+        top: 550px;
+    }
+    
+    .link{
+        display: inline;
+        padding-right: 40px;
+        padding: right 35px; ;
+        font-family: 'Dancing Script', cursive;
+        font-size: 15px;
+        color: black;
+        font-family: bold;
+        }
+        
+        .link:hover{
+        font-size: 20px;
+        text-decoration:underline;
+        border-style: dotted;
+        color: black;
+        font-weight: bold;
+        border-color: black;
+    }
+        #a{
+        position: fixed;
+    right: 590px;
+        top:20px;
+        right: 500px;
+        }
+        #b{
+            position:fixed;
+            right: 600px;
+            top: 20px;
+            right: 200px;
+
+            }
+        #d{
+        position:fixed;
+         right: 250px;
+        top: 20px;
+      right: 600px;
+     }
+        
+            #e{
+              position: fixed;
+             right: 140px;
+            top: 20px;
+            left:900;
+           }
+          #f{
+          position:fixed;
+         right: 100px;
+         top: 20px;
+         }
+        #c{
+       position: fixed;
+       right: 50;
+       top: 20px;
+    }
+
+                            
+             
+      
+                                   
+               
+           
